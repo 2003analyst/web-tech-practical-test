@@ -1,8 +1,8 @@
 /* ============================================================
    SUZA Web Technologies — Practical Test
-   Student      : [WRITE YOUR FULL NAME]
-   Reg No.      : [WRITE YOUR REG NUMBER]
-   Question     : Q[XXX] — [PASTE YOUR QUESTION TITLE]
+   Student      : [Tatu Ameir Haji]
+   Reg No.      : [24BCS011]
+   Question     : Q[110] — [PERSONAL CV]
    ============================================================ */
 
 /* ---------- Starter reset (you may keep or modify) ---------- */
@@ -80,17 +80,39 @@ main {
    Delete the .solution placeholder rules once you start.
    ============================================================ */
 
-.solution {
-  background: #fff;
-  border: 1px dashed #b2bec3;
-  padding: 2rem;
-  border-radius: 10px;
-  text-align: center;
+h2{
+  color: brown;
+}
+h3{
+  color: brown;
+}
+h1{
+  color: brown;
 }
 
-.solution img {
-  margin: 1rem auto;
-  border-radius: 8px;
+
+#me{
+  width: 200px;
+  height: 150px;
+  border-radius: 50px;
+}
+#one{
+  background-color: antiquewhite;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+}
+#four{
+  float: left;
+  padding: 20px;
+  margin: 20px;
+  justify-content: center;
+  margin-left: 200px;
+}
+#three{
+  float: right;
+  padding: 20px;
+  margin-left: 200px;
 }
 
 /* ---------- Example media query (mobile) ---------- */
